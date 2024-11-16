@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968028326066",
+    "project_id": "loginapi-d9278",
+    "storage_bucket": "loginapi-d9278.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968028326066:android:ed9e0ac2719ce1b55c61ab",
+        "android_client_info": {
+          "package_name": "com.example.portfoliowithapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhYVbA66Z9Uynq-pU3Sx_E6YV7AazNxKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
